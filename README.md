@@ -5,6 +5,7 @@ Sistema interactivo óptico
 Explorando en Zona de Cuarentena
 
 Autor: Sam Alexander Marquez Mejías
+
 Curso: Pensamiento Computacional Sec 3 
 
 ## Descripción objetiva
