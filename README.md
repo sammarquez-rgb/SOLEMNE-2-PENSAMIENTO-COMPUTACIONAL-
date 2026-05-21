@@ -2,7 +2,7 @@
 Sistema interactivo óptico
 
 
-## Explorando en Zona de Cuarentena
+### Explorando en Zona de Cuarentena
 
 Autor: Sam Alexander Marquez Mejías
 
