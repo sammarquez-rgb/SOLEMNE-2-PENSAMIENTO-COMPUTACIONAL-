@@ -1,5 +1,5 @@
 # Solemne-II
-Sistems interactivo óptico
+Sistema interactivo óptico
 
 
 Explorando en Zona de Cuarentena
