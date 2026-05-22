@@ -80,8 +80,6 @@ El modo escucha del juego fue una de las principales referencias para el sistema
 
 ## Infectados y tensión visual
 
-## Infectados y tensión visual
-
 Para el proyecto elegí específicamente a los Acechadores debido a que suelen ocultarse dentro de espacios oscuros, apareciendo solo parcialmente iluminados. Esto se relacionaba directamente con la lógica de exploración e iluminación limitada que quería trabajar dentro del sistema.
 
 <img width="700" alt="Referencia infectado The Last of Us" src="https://github.com/user-attachments/assets/29a66977-d754-464a-aed4-bd6a7c47c89f" />
