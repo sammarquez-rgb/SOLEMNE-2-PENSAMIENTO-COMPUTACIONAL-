@@ -100,6 +100,8 @@ Captura del infectado utilizado dentro de la experiencia interactiva. La entidad
 
 <img width="850" alt="Captura final del proyecto en funcionamiento" src="https://github.com/user-attachments/assets/7ef03f8a-5bdb-4357-9a54-208dc98df917" />
 
+## Link de p5.js
+
 [Link del proyecto final en p5.js](https://editor.p5js.org/sam.marquez/sketches/EmI7y0UzF)
 
 
