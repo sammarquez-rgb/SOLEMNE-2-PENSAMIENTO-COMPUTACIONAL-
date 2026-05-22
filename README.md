@@ -90,6 +90,9 @@ Para el proyecto elegí específicamente a los Acechadores debido a que suelen o
 
 [DIAGRAMA DE FLUJO.pdf](https://github.com/user-attachments/files/28152421/DIAGRAMA.DE.FLUJO.pdf)
 
+<img width="11339" height="6378" alt="DIAGRAMA DE FLUJO_page-0001" src="https://github.com/user-attachments/assets/51478266-deed-493c-8cd5-82aa7b199459" />
+
+
 
 ## Resultado final del proyecto
 
