@@ -39,7 +39,15 @@ En pantalla se observa un hospital abandonado y oscuro donde el usuario explora 
 - Alerta visual roja.
 - Modo escucha.
 - Revelación parcial del infectado.
- 
+
+## Diagrama de Flujo 
+
+El sistema conecta inputs, procesos y decisiones para generar una experiencia interactiva dinámica
+
+[DIAGRAMA.DE.FLUJO.pdf](https://github.com/user-attachments/files/28152908/DIAGRAMA.DE.FLUJO.pdf)
+
+<img width="11339" height="6378" alt="DIAGRAMA DE FLUJO_page-0001" src="https://github.com/user-attachments/assets/9ab7bc21-1225-4577-800e-d7c10bb64eef" />
+
 # Idea y proceso del proyecto
 
 No sabía por dónde empezar el proyecto, por lo que, como me suele pasar cuando tengo bloqueos creativos, comencé buscando referencias en cosas que realmente me gustan e interesan. Dentro de los marcos conceptuales propuestos para la solemne, los que más me llamaron la atención fueron el diseño de interfaces y el diseño de videojuegos, ya que los videojuegos son una de las cosas que más disfruto, especialmente The Last of Us, que es mi videojuego favorito.
@@ -85,16 +93,6 @@ Para el proyecto elegí específicamente a los Acechadores debido a que suelen o
 <img width="700" alt="Referencia infectado The Last of Us" src="https://github.com/user-attachments/assets/29a66977-d754-464a-aed4-bd6a7c47c89f" />
 
 <img width="500" alt="Infectado integrado en el proyecto" src="https://github.com/user-attachments/assets/3e7bed9f-e7b8-47ed-a340-46084d8d422f" />
-
-## Diagrama de Flujo 
-
-El sistema conecta inputs, procesos y decisiones para generar una experiencia interactiva dinámica
-
-[DIAGRAMA DE FLUJO.pdf](https://github.com/user-attachments/files/28152421/DIAGRAMA.DE.FLUJO.pdf)
-
-<img width="11339" height="6378" alt="DIAGRAMA DE FLUJO_page-0001" src="https://github.com/user-attachments/assets/51478266-deed-493c-8cd5-82aa7b199459" />
-
-
 
 ## Resultado final del proyecto
 
