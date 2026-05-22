@@ -42,7 +42,7 @@ En pantalla se observa un hospital abandonado y oscuro donde el usuario explora 
 
 ## Diagrama de Flujo 
 
-El sistema conecta inputs, procesos y decisiones para generar una experiencia interactiva dinámica
+El sistema conecta inputs, outputs, procesos y decisiones para generar una experiencia interactiva dinámica.
 
 [DIAGRAMA.DE.FLUJO.pdf](https://github.com/user-attachments/files/28152908/DIAGRAMA.DE.FLUJO.pdf)
 
