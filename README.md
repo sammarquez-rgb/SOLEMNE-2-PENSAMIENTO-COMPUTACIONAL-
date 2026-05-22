@@ -86,6 +86,11 @@ Para el proyecto elegí específicamente a los Acechadores debido a que suelen o
 
 <img width="500" alt="Infectado integrado en el proyecto" src="https://github.com/user-attachments/assets/3e7bed9f-e7b8-47ed-a340-46084d8d422f" />
 
+## Diagrama de Flujo 
+
+[DIAGRAMA DE FLUJO.pdf](https://github.com/user-attachments/files/28152421/DIAGRAMA.DE.FLUJO.pdf)
+
+
 ## Resultado final del proyecto
 
 Captura del infectado utilizado dentro de la experiencia interactiva. La entidad responde a la iluminación, al modo escucha y a la cercanía del usuario, activando distintos estados visuales de alerta dentro del entorno.
