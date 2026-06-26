@@ -104,5 +104,3 @@ Captura del infectado utilizado dentro de la experiencia interactiva. La entidad
 
 [Link del resultado final en p5.js](https://editor.p5js.org/sam.marquez/sketches/EmI7y0UzF)
 
-
-![Fondo FNAF](fondofnaf.png)
